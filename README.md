@@ -112,6 +112,21 @@ Unless redistribution permission has been confirmed, the presence of these files
 
 Third-party components, if present, may be subject to separate licenses and terms.
 
+## Issues and Bug Reports
+
+If you encounter any issues with the decompiled code, including crashes, compilation errors, missing dependencies, or unexpected behavior, feel free to open an issue in this repository.
+
+When submitting an issue, please include:
+
+- A clear description of the problem.
+- Steps to reproduce the issue.
+- Relevant error messages or crash logs.
+- Your environment and toolchain versions, if applicable.
+
+Please note that, since this repository contains decompiled code, some issues may result from inaccuracies introduced during decompilation or missing original project files.
+
+Issues are welcome, but there is no guarantee that every problem can be resolved or that fixes will be provided.
+
 ## Contact
 
 For questions about the original project, its ownership, or permissions concerning its code, please contact the original project authors through their available official channels.
