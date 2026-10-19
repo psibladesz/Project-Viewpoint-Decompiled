@@ -1,0 +1,64 @@
+The default shader pack's clouds (shaderpacks/default) follow Andrew Schneider's Nubis cloud system for Guerrilla
+Games' Horizon Zero Dawn ("The Real-Time Volumetric Cloudscapes of Horizon Zero Dawn", SIGGRAPH 2015; "Nubis:
+Authoring Real-Time Volumetric Cloudscapes with the Decima Engine", SIGGRAPH 2017; GPU Pro 7, 2016), as these
+projects implement it. Their notices follow.
+
+shape.png, detail.png and curl.png are the noise volumes and the curl field shipped by Meteoros (the volumes made with
+the Nubis Noise Generator released with Schneider's talks; the curl field from the Bitsquid blog, "Volumetric
+clouds", 2016), laid out as strips of slices. The clouds' model and light follow Schneider's GPU Pro 7 listings, as
+Meteoros ports them; Frostnova and Volumarcher were read alongside.
+
+sheets.png, the high clouds' images, is Viewpoint's own, baked from noise by its dev tool CloudSheetBake after the
+way Schneider's 2015 talk draws Horizon Zero Dawn's alto and cirro clouds (tiling images scrolled on the wind).
+
+Meteoros - https://github.com/AmanSachan1/Meteoros
+
+  MIT License
+
+  Copyright (c) 2017 Aman Sachan
+
+  Permission is hereby granted, free of charge, to any person obtaining a copy
+  of this software and associated documentation files (the "Software"), to deal
+  in the Software without restriction, including without limitation the rights
+  to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+  copies of the Software, and to permit persons to whom the Software is
+  furnished to do so, subject to the following conditions:
+
+  The above copyright notice and this permission notice shall be included in all
+  copies or substantial portions of the Software.
+
+  THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+  IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+  FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+  AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+  LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+  OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+  SOFTWARE.
+
+Frostnova (CIS 5650 final project) - https://github.com/YueZhang1027/CIS5650-Final-Project-Frostnova
+
+  Copyright (c) 2023 Janet Wang, Xinyu Niu, Yue Zhang. Used under the terms of the MIT License above.
+
+Volumarcher - https://github.com/Twenmod/Volumarcher
+
+  MIT License
+
+  Copyright (c) 2026 Jack Tollenaar
+
+  Permission is hereby granted, free of charge, to any person obtaining a copy
+  of this software and associated documentation files (the "Software"), to deal
+  in the Software without restriction, including without limitation the rights
+  to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+  copies of the Software, and to permit persons to whom the Software is
+  furnished to do so, subject to the following conditions:
+
+  The above copyright notice and this permission notice shall be included in all
+  copies or substantial portions of the Software.
+
+  THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+  IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+  FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+  AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+  LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+  OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+  SOFTWARE.

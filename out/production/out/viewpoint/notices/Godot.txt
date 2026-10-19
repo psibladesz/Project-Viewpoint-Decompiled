@@ -1,0 +1,36 @@
+The screen-space reflections (shaders/reflection_depth.frag, shaders/reflection_trace.frag, render.Reflections,
+D42) follow Godot Engine's rework of its screen-space reflections (https://github.com/godotengine/godot, pull
+request 111210, servers/rendering/renderer_rd/shaders/effects/screen_space_reflection.glsl and
+screen_space_reflection_hiz.glsl): the closest depth's levels, the walk down and up them with the depth as its
+parameter, the bias against a ray meeting its own face, the screen's margin, the cone's level. Changed: written as
+GL 3.3 fragment passes over a depth that grows away from the eye, at half the screen's size, read through a pack's
+own test of what reflects.
+
+The hashed alpha test (shaders/lib/alpha_hash.glsl, D44) follows Godot Engine's port of Wyman and McGuire's
+"Hashed Alpha Testing" (2017) in servers/rendering/renderer_rd/shaders/scene_forward_aa_inc.glsl
+(compute_alpha_hash_threshold, hash_2d, hash_3d): the hash, the two power-of-two scales blended, and the blend's
+distribution undone. Changed: written for GL 3.3, with the derivatives taken before any branch on the texel, a step
+by each phase of the TAA's offset, and a threshold never 0.
+
+Godot is licensed under the MIT License, which follows.
+
+Copyright (c) 2014-present Godot Engine contributors (see AUTHORS.md).
+Copyright (c) 2007-2014 Juan Linietsky, Ariel Manzur.
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.

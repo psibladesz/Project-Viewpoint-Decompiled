@@ -1,0 +1,7 @@
+# Getting up: the camera rises with the body from low and a little back.
+states getup
+in 0.2
+out 0.4
+# time  distance height shoulder pitch yaw roll fov
+0.00    0.30     -0.40  0.00     2.0   0.0 0.0  0.0
+1.20    0.00     0.00   0.00     0.0   0.0 0.0  0.0

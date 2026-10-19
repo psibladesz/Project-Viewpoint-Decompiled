@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="projectzomboid">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/projectzomboid.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

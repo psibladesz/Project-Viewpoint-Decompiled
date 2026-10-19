@@ -1,0 +1,29 @@
+The water's waves (render.WaveSpectrum, shaders/wave_modulate.frag, shaders/wave_unpack.frag, D42) are ported from
+GodotOceanWaves (https://github.com/2Retr0/GodotOceanWaves, assets/shaders/compute/spectrum_compute.glsl,
+spectrum_modulate.glsl, fft_unpack.glsl, assets/water/wave_generator.gd): JONSWAP's spectrum and its parameters for
+the wind and the fetch, the TMA's attenuation in shallow water, Hasselmann's spreading, the spectrum turned in time
+and its fields packed two to a complex number, the slopes' choppy correction, the foam from the Jacobian. Changed:
+the spectrum made on the CPU, the fields as fragment passes, the frequencies rounded to a period. GodotOceanWaves is
+licensed under the MIT License, which follows.
+
+MIT License
+
+Copyright (c) 2024 Ethan Truong
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.

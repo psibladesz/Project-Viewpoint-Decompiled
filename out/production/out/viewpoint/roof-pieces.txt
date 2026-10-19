@@ -1,0 +1,1759 @@
+# fuck you devs !!! Roof tiles as pieces (RoofPiece), fitted from Tiles2x.pack by RoofPieceTable: name kind [facings] stepsPerStorey step, or name plane facing rise middle (a trailer's, from its shape)
+location_trailer_01_52 plane S 0.2002 0.3097
+location_trailer_01_53 plane S 0.2002 0.5099
+location_trailer_01_54 plane N 0.1996 0.4996
+location_trailer_01_55 plane N 0.1996 0.3000
+location_trailer_01_60 plane E 0.2310 0.3263
+location_trailer_01_61 plane E 0.2310 0.5573
+location_trailer_01_62 plane W 0.3044 0.5385
+location_trailer_01_63 plane W 0.3044 0.2342
+location_trailer_02_36 plane S 0.2002 0.3097
+location_trailer_02_37 plane S 0.2002 0.5099
+location_trailer_02_38 plane N 0.1996 0.4996
+location_trailer_02_39 plane N 0.1996 0.3000
+location_trailer_02_44 plane E 0.2310 0.3263
+location_trailer_02_45 plane E 0.2310 0.5573
+location_trailer_02_46 plane W 0.3044 0.5385
+location_trailer_02_47 plane W 0.3044 0.2342
+roofs_01_0 slope S 3 1
+roofs_01_1 slope S 3 2
+roofs_01_2 slope S 3 3
+roofs_01_3 slope E 3 3
+roofs_01_4 slope E 3 2
+roofs_01_5 slope E 3 1
+roofs_01_6 eave
+roofs_01_7 eave
+roofs_01_8 hip SE 3 1
+roofs_01_9 hip SE 3 2
+roofs_01_10 hip SE 3 3
+roofs_01_11 valley SE 3 1
+roofs_01_12 valley SE 3 2
+roofs_01_13 valley SE 3 3
+roofs_01_14 hip EW 3 2
+roofs_01_15 hip SN 3 2
+roofs_01_20 eave
+roofs_01_21 eave
+roofs_01_22 flat
+roofs_01_23 flat
+roofs_01_24 hip SW 3 1
+roofs_01_25 hip SW 3 2
+roofs_01_26 hip SW 3 3
+roofs_01_27 hip NE 3 3
+roofs_01_28 hip NE 3 2
+roofs_01_29 hip NE 3 1
+roofs_01_30 eave
+roofs_01_31 eave
+roofs_01_32 slope S 3 1
+roofs_01_33 slope S 3 2
+roofs_01_34 slope S 3 3
+roofs_01_35 slope E 3 3
+roofs_01_36 slope E 3 2
+roofs_01_37 slope E 3 1
+roofs_01_38 eave
+roofs_01_39 eave
+roofs_01_40 hip SE 3 1
+roofs_01_41 hip SE 3 2
+roofs_01_42 hip SE 3 3
+roofs_01_43 valley SE 3 1
+roofs_01_44 valley SE 3 2
+roofs_01_45 valley SE 3 3
+roofs_01_46 hip EW 3 2
+roofs_01_47 hip SN 3 2
+roofs_01_52 eave
+roofs_01_53 eave
+roofs_01_54 flat
+roofs_01_55 flat
+roofs_01_56 hip SW 3 1
+roofs_01_57 hip SW 3 2
+roofs_01_58 hip SW 3 3
+roofs_01_59 hip NE 3 3
+roofs_01_60 hip NE 3 2
+roofs_01_61 hip NE 3 1
+roofs_01_62 eave
+roofs_01_63 eave
+roofs_01_70 hip EW 3 3
+roofs_01_71 hip SN 3 3
+roofs_01_78 hip EW 3 3
+roofs_01_79 hip SN 3 3
+roofs_01_80 slope E 12 3
+roofs_01_81 slope E 12 4
+roofs_01_82 slope W 9 3
+roofs_01_83 slope W 10 2
+roofs_01_84 slope N 10 2
+roofs_01_85 slope N 9 3
+roofs_01_86 slope S 12 4
+roofs_01_87 slope S 12 3
+roofs_01_88 slope W 10 2
+roofs_01_89 slope N 10 2
+roofs_01_90 top 3 1
+roofs_01_91 top 3 1
+roofs_01_92 top 3 2
+roofs_01_93 top 3 2
+roofs_01_96 slope E 12 3
+roofs_01_97 slope E 12 4
+roofs_01_98 slope W 9 3
+roofs_01_99 slope E 12 3
+roofs_01_100 slope S 12 3
+roofs_01_101 slope N 9 3
+roofs_01_102 slope S 12 4
+roofs_01_103 slope S 12 3
+roofs_01_106 top 3 1
+roofs_01_107 top 3 1
+roofs_01_108 top 3 2
+roofs_01_109 top 3 2
+roofs_01_112 slope S 3 1
+roofs_01_113 slope S 3 2
+roofs_01_114 slope S 3 1
+roofs_01_115 slope S 3 2
+roofs_01_116 slope E 3 2
+roofs_01_117 slope E 3 1
+roofs_01_118 slope E 3 2
+roofs_01_119 slope E 3 1
+roofs_01_120 hip NE 9 3
+roofs_01_122 hip NW 9 3
+roofs_01_123 hip NW 10 2
+roofs_01_124 hip SE 12 4
+roofs_01_125 hip SE 12 3
+roofs_01_127 hip SW 9 3
+roofs_01_128 valley SE 8 2
+roofs_01_129 valley SE 9 3
+roofs_01_130 valley NW 9 3
+roofs_01_131 valley NW 10 2
+roofs_01_132 slope E 12 3
+roofs_01_133 valley NE 9 3
+roofs_01_134 valley SW 9 3
+roofs_01_135 slope S 12 3
+roofs_02_0 slope S 3 1
+roofs_02_1 slope S 3 2
+roofs_02_2 slope S 3 3
+roofs_02_3 slope E 3 3
+roofs_02_4 slope E 3 2
+roofs_02_5 slope E 3 1
+roofs_02_6 eave
+roofs_02_7 eave
+roofs_02_8 hip SE 3 1
+roofs_02_9 hip SE 3 2
+roofs_02_10 hip SE 3 3
+roofs_02_11 valley SE 3 1
+roofs_02_12 valley SE 3 2
+roofs_02_13 valley SE 3 3
+roofs_02_14 hip EW 3 2
+roofs_02_15 hip SN 3 2
+roofs_02_20 eave
+roofs_02_21 eave
+roofs_02_22 flat
+roofs_02_23 flat
+roofs_02_24 hip SW 3 1
+roofs_02_25 hip SW 3 2
+roofs_02_26 hip SW 3 3
+roofs_02_27 hip NE 3 3
+roofs_02_28 hip NE 3 2
+roofs_02_29 hip NE 3 1
+roofs_02_30 eave
+roofs_02_31 eave
+roofs_02_32 slope S 3 1
+roofs_02_33 slope S 3 2
+roofs_02_34 slope S 3 3
+roofs_02_35 slope E 3 3
+roofs_02_36 slope E 3 2
+roofs_02_37 slope E 3 1
+roofs_02_38 eave
+roofs_02_39 eave
+roofs_02_40 hip SE 3 1
+roofs_02_41 hip SE 3 2
+roofs_02_42 hip SE 3 3
+roofs_02_43 valley SE 3 1
+roofs_02_44 valley SE 3 2
+roofs_02_45 valley SE 3 3
+roofs_02_46 hip EW 3 2
+roofs_02_47 hip SN 3 2
+roofs_02_50 top 3 1
+roofs_02_51 top 3 1
+roofs_02_52 eave
+roofs_02_53 eave
+roofs_02_54 flat
+roofs_02_55 flat
+roofs_02_56 hip SW 3 1
+roofs_02_57 hip SW 3 2
+roofs_02_58 hip SW 3 3
+roofs_02_59 hip NE 3 3
+roofs_02_60 hip NE 3 2
+roofs_02_61 hip NE 3 1
+roofs_02_70 hip EW 3 3
+roofs_02_71 hip SN 3 3
+roofs_02_78 hip EW 3 3
+roofs_02_79 hip SN 3 3
+roofs_02_80 slope E 12 3
+roofs_02_81 slope E 12 4
+roofs_02_82 slope W 9 3
+roofs_02_83 slope W 10 2
+roofs_02_84 slope N 10 2
+roofs_02_85 slope N 9 3
+roofs_02_86 slope S 12 4
+roofs_02_87 slope S 12 3
+roofs_02_88 slope W 10 2
+roofs_02_89 slope N 10 2
+roofs_02_90 top 3 1
+roofs_02_91 top 3 1
+roofs_02_92 top 3 2
+roofs_02_93 top 3 2
+roofs_02_96 slope E 12 3
+roofs_02_97 slope E 12 4
+roofs_02_98 slope W 9 3
+roofs_02_99 slope E 12 3
+roofs_02_100 slope S 12 3
+roofs_02_101 slope N 9 3
+roofs_02_102 slope S 12 4
+roofs_02_103 slope S 12 3
+roofs_02_104 slope S 3 1
+roofs_02_105 slope S 3 2
+roofs_02_106 slope S 3 1
+roofs_02_107 slope S 3 2
+roofs_02_108 slope E 3 2
+roofs_02_109 slope E 3 1
+roofs_02_110 slope E 3 2
+roofs_02_111 slope E 3 1
+roofs_02_112 hip NE 9 3
+roofs_02_114 hip NW 9 3
+roofs_02_115 hip NW 10 2
+roofs_02_116 hip SE 12 4
+roofs_02_117 hip SE 12 3
+roofs_02_119 hip SW 9 3
+roofs_02_120 valley SE 8 2
+roofs_02_121 valley SE 9 3
+roofs_02_122 valley NW 9 3
+roofs_02_123 valley NW 10 2
+roofs_02_124 slope E 12 3
+roofs_02_125 valley NE 9 3
+roofs_02_126 valley SW 9 3
+roofs_02_127 slope S 12 3
+roofs_03_0 slope S 3 1
+roofs_03_1 slope S 3 2
+roofs_03_2 slope S 3 3
+roofs_03_3 slope E 3 3
+roofs_03_4 slope E 3 2
+roofs_03_5 slope E 3 1
+roofs_03_6 eave
+roofs_03_7 eave
+roofs_03_8 hip SE 3 1
+roofs_03_9 hip SE 3 2
+roofs_03_10 hip SE 3 3
+roofs_03_11 valley SE 3 1
+roofs_03_12 valley SE 3 2
+roofs_03_13 valley SE 3 3
+roofs_03_14 hip EW 3 2
+roofs_03_15 hip SN 3 2
+roofs_03_20 eave
+roofs_03_21 eave
+roofs_03_22 flat
+roofs_03_23 flat
+roofs_03_24 hip SW 3 1
+roofs_03_25 hip SW 3 2
+roofs_03_26 hip SW 3 3
+roofs_03_27 hip NE 3 3
+roofs_03_28 hip NE 3 2
+roofs_03_29 hip NE 3 1
+roofs_03_30 eave
+roofs_03_31 eave
+roofs_03_32 slope S 3 1
+roofs_03_33 slope S 3 2
+roofs_03_34 slope S 3 3
+roofs_03_35 slope E 3 3
+roofs_03_36 slope E 3 2
+roofs_03_37 slope E 3 1
+roofs_03_38 eave
+roofs_03_39 eave
+roofs_03_40 hip SE 3 1
+roofs_03_41 hip SE 3 2
+roofs_03_42 hip SE 3 3
+roofs_03_43 valley SE 3 1
+roofs_03_44 valley SE 3 2
+roofs_03_45 valley SE 3 3
+roofs_03_46 hip EW 3 2
+roofs_03_47 hip SN 3 2
+roofs_03_52 eave
+roofs_03_53 eave
+roofs_03_54 flat
+roofs_03_55 flat
+roofs_03_56 hip SW 3 1
+roofs_03_57 hip SW 3 2
+roofs_03_58 hip SW 3 3
+roofs_03_59 hip NE 3 3
+roofs_03_60 hip NE 3 2
+roofs_03_61 hip NE 3 1
+roofs_03_62 eave
+roofs_03_63 eave
+roofs_03_70 hip EW 3 3
+roofs_03_71 hip SN 3 3
+roofs_03_72 slope S 3 1
+roofs_03_73 slope S 3 2
+roofs_03_74 slope S 3 1
+roofs_03_75 slope S 3 2
+roofs_03_76 slope E 3 2
+roofs_03_77 slope E 3 1
+roofs_03_78 slope E 3 2
+roofs_03_79 slope E 3 1
+roofs_03_90 top 3 1
+roofs_03_91 top 3 1
+roofs_03_92 top 3 2
+roofs_03_93 top 3 2
+roofs_03_102 hip EW 3 3
+roofs_03_103 hip SN 3 3
+roofs_03_104 slope S 3 1
+roofs_03_105 slope S 3 2
+roofs_03_106 slope S 3 1
+roofs_03_107 slope S 3 2
+roofs_03_108 slope E 3 2
+roofs_03_109 slope E 3 1
+roofs_03_110 slope E 3 2
+roofs_03_111 slope E 3 1
+roofs_03_122 top 3 1
+roofs_03_123 top 3 1
+roofs_03_124 top 3 2
+roofs_03_125 top 3 2
+roofs_04_0 slope S 3 1
+roofs_04_1 slope S 3 2
+roofs_04_2 slope S 3 3
+roofs_04_3 slope E 3 3
+roofs_04_4 slope E 3 2
+roofs_04_5 slope E 3 1
+roofs_04_6 eave
+roofs_04_7 eave
+roofs_04_8 hip SE 3 1
+roofs_04_9 hip SE 3 2
+roofs_04_10 hip SE 3 3
+roofs_04_11 valley SE 3 1
+roofs_04_12 valley SE 3 2
+roofs_04_13 valley SE 3 3
+roofs_04_14 hip EW 3 2
+roofs_04_15 hip SN 3 2
+roofs_04_20 eave
+roofs_04_21 eave
+roofs_04_22 flat
+roofs_04_23 flat
+roofs_04_24 hip SW 3 1
+roofs_04_25 hip SW 3 2
+roofs_04_26 hip SW 3 3
+roofs_04_27 hip NE 3 3
+roofs_04_28 hip NE 3 2
+roofs_04_29 hip NE 3 1
+roofs_04_30 eave
+roofs_04_31 eave
+roofs_04_32 slope S 3 1
+roofs_04_33 slope S 3 2
+roofs_04_34 slope S 3 3
+roofs_04_35 slope E 3 3
+roofs_04_36 slope E 3 2
+roofs_04_37 slope E 3 1
+roofs_04_38 eave
+roofs_04_39 eave
+roofs_04_40 hip SE 3 1
+roofs_04_41 hip SE 3 2
+roofs_04_42 hip SE 3 3
+roofs_04_43 valley SE 3 1
+roofs_04_44 valley SE 3 2
+roofs_04_45 valley SE 3 3
+roofs_04_46 hip EW 3 2
+roofs_04_47 hip SN 3 2
+roofs_04_48 top 3 1
+roofs_04_49 top 3 1
+roofs_04_50 top 3 2
+roofs_04_51 top 3 2
+roofs_04_52 eave
+roofs_04_53 eave
+roofs_04_54 flat
+roofs_04_55 flat
+roofs_04_56 hip SW 3 1
+roofs_04_57 hip SW 3 2
+roofs_04_58 hip SW 3 3
+roofs_04_59 hip NE 3 3
+roofs_04_60 hip NE 3 2
+roofs_04_61 hip NE 3 1
+roofs_04_62 eave
+roofs_04_63 eave
+roofs_04_70 hip EW 3 3
+roofs_04_71 hip SN 3 3
+roofs_04_72 slope S 3 1
+roofs_04_73 slope S 3 2
+roofs_04_74 slope S 3 1
+roofs_04_75 slope S 3 2
+roofs_04_76 slope E 3 2
+roofs_04_77 slope E 3 1
+roofs_04_78 slope E 3 2
+roofs_04_79 slope E 3 1
+roofs_04_90 top 3 1
+roofs_04_91 top 3 1
+roofs_04_92 top 3 2
+roofs_04_93 top 3 2
+roofs_04_102 hip EW 3 3
+roofs_04_103 hip SN 3 3
+roofs_04_104 slope S 3 1
+roofs_04_105 slope S 3 2
+roofs_04_106 slope S 3 1
+roofs_04_107 slope S 3 2
+roofs_04_108 slope E 3 2
+roofs_04_109 slope E 3 1
+roofs_04_110 slope E 3 2
+roofs_04_111 slope E 3 1
+roofs_05_0 slope S 3 1
+roofs_05_1 slope S 3 2
+roofs_05_2 slope S 3 3
+roofs_05_3 slope E 3 3
+roofs_05_4 slope E 3 2
+roofs_05_5 slope E 3 1
+roofs_05_6 eave
+roofs_05_7 eave
+roofs_05_8 hip SE 3 1
+roofs_05_9 hip SE 3 2
+roofs_05_10 hip SE 3 3
+roofs_05_11 valley SE 3 1
+roofs_05_12 valley SE 3 2
+roofs_05_13 valley SE 3 3
+roofs_05_14 hip EW 3 2
+roofs_05_15 hip SN 3 2
+roofs_05_20 eave
+roofs_05_21 eave
+roofs_05_22 flat
+roofs_05_23 flat
+roofs_05_24 hip SW 3 1
+roofs_05_25 hip SW 3 2
+roofs_05_26 hip SW 3 3
+roofs_05_27 hip NE 3 3
+roofs_05_28 hip NE 3 2
+roofs_05_29 hip NE 3 1
+roofs_05_30 eave
+roofs_05_31 eave
+roofs_05_32 slope S 3 1
+roofs_05_33 slope S 3 2
+roofs_05_34 slope S 3 3
+roofs_05_35 slope E 3 3
+roofs_05_36 slope E 3 2
+roofs_05_37 slope E 3 1
+roofs_05_38 eave
+roofs_05_39 eave
+roofs_05_40 hip SE 3 1
+roofs_05_41 hip SE 3 2
+roofs_05_42 hip SE 3 3
+roofs_05_43 valley SE 3 1
+roofs_05_44 valley SE 3 2
+roofs_05_45 valley SE 3 3
+roofs_05_46 hip EW 3 2
+roofs_05_47 hip SN 3 2
+roofs_05_52 eave
+roofs_05_53 eave
+roofs_05_54 flat
+roofs_05_55 flat
+roofs_05_56 hip SW 3 1
+roofs_05_57 hip SW 3 2
+roofs_05_58 hip SW 3 3
+roofs_05_59 hip NE 3 3
+roofs_05_60 hip NE 3 2
+roofs_05_61 hip NE 3 1
+roofs_05_62 eave
+roofs_05_63 eave
+roofs_05_70 hip EW 3 3
+roofs_05_71 hip SN 3 3
+roofs_05_78 hip EW 3 3
+roofs_05_79 hip SN 3 3
+roofs_05_80 slope E 12 3
+roofs_05_81 slope E 12 4
+roofs_05_82 slope W 9 3
+roofs_05_83 slope W 10 2
+roofs_05_84 slope N 10 2
+roofs_05_85 slope N 9 3
+roofs_05_86 slope S 12 4
+roofs_05_87 slope S 12 3
+roofs_05_88 slope W 10 2
+roofs_05_89 slope N 10 2
+roofs_05_90 top 3 1
+roofs_05_91 top 3 1
+roofs_05_92 top 3 2
+roofs_05_93 top 3 2
+roofs_05_96 slope E 12 3
+roofs_05_97 slope E 12 4
+roofs_05_98 slope W 9 3
+roofs_05_99 slope E 12 3
+roofs_05_100 slope S 12 3
+roofs_05_101 slope N 9 3
+roofs_05_102 slope S 12 4
+roofs_05_103 slope S 12 3
+roofs_05_104 slope S 3 1
+roofs_05_105 slope S 3 2
+roofs_05_106 slope S 3 1
+roofs_05_107 slope S 3 2
+roofs_05_108 slope E 3 2
+roofs_05_109 slope E 3 1
+roofs_05_110 slope E 3 2
+roofs_05_111 slope E 3 1
+roofs_05_112 slope E 12 3
+roofs_05_113 slope E 12 4
+roofs_05_114 slope W 9 3
+roofs_05_115 slope W 10 2
+roofs_05_116 slope N 10 2
+roofs_05_117 slope N 9 3
+roofs_05_118 slope S 12 4
+roofs_05_119 slope S 12 3
+roofs_05_120 slope W 10 2
+roofs_05_121 slope N 10 2
+roofs_05_122 top 3 1
+roofs_05_123 top 3 1
+roofs_05_124 top 3 2
+roofs_05_125 top 3 2
+roofs_05_128 slope E 12 3
+roofs_05_129 slope E 12 4
+roofs_05_130 slope W 9 3
+roofs_05_131 slope E 12 3
+roofs_05_132 slope S 12 3
+roofs_05_133 slope N 9 3
+roofs_05_134 slope S 12 4
+roofs_05_135 slope S 12 3
+roofs_05_136 slope S 3 1
+roofs_05_137 slope S 3 2
+roofs_05_138 slope S 3 1
+roofs_05_139 slope S 3 2
+roofs_05_140 slope E 3 2
+roofs_05_141 slope E 3 1
+roofs_05_142 slope E 3 2
+roofs_05_143 slope E 3 1
+roofs_05_144 hip NE 9 3
+roofs_05_146 hip NW 9 3
+roofs_05_147 hip NW 10 2
+roofs_05_148 hip SE 12 4
+roofs_05_149 hip SE 12 3
+roofs_05_151 hip SW 9 3
+roofs_05_152 valley SE 8 2
+roofs_05_153 valley SE 9 3
+roofs_05_154 valley NW 9 3
+roofs_05_155 valley NW 10 2
+roofs_05_156 slope E 12 3
+roofs_05_157 valley NE 9 3
+roofs_05_158 valley SW 9 3
+roofs_05_159 slope S 12 3
+roofs_05_160 hip NE 9 3
+roofs_05_162 hip NW 9 3
+roofs_05_163 hip NW 10 2
+roofs_05_164 hip SE 12 4
+roofs_05_165 hip SE 12 3
+roofs_05_167 hip SW 9 3
+roofs_05_168 valley SE 8 2
+roofs_05_169 valley SE 9 3
+roofs_05_170 valley NW 9 3
+roofs_05_171 valley NW 10 2
+roofs_05_172 slope E 12 3
+roofs_05_173 valley NE 9 3
+roofs_05_174 valley SW 9 3
+roofs_05_175 slope S 12 3
+roofs_30_01_0 slope S 6 1
+roofs_30_01_1 slope S 6 2
+roofs_30_01_2 slope S 6 3
+roofs_30_01_3 slope S 6 4
+roofs_30_01_4 slope S 6 5
+roofs_30_01_5 slope S 6 6
+roofs_30_01_8 slope E 6 6
+roofs_30_01_9 slope E 6 5
+roofs_30_01_10 slope E 6 4
+roofs_30_01_11 slope E 6 3
+roofs_30_01_12 slope E 6 2
+roofs_30_01_13 slope E 6 1
+roofs_30_01_16 slope W 6 1
+roofs_30_01_17 slope W 6 2
+roofs_30_01_18 slope W 6 3
+roofs_30_01_19 slope W 6 4
+roofs_30_01_20 slope W 6 5
+roofs_30_01_21 slope W 6 6
+roofs_30_01_24 slope N 6 6
+roofs_30_01_25 slope N 6 5
+roofs_30_01_26 slope N 6 4
+roofs_30_01_27 slope N 6 3
+roofs_30_01_28 slope N 6 2
+roofs_30_01_29 slope N 6 1
+roofs_30_01_32 valley SE 6 1
+roofs_30_01_33 valley SE 6 2
+roofs_30_01_34 valley SE 6 3
+roofs_30_01_35 valley SE 6 4
+roofs_30_01_36 valley SE 6 5
+roofs_30_01_37 valley SE 6 6
+roofs_30_01_40 valley NE 6 6
+roofs_30_01_41 valley NE 6 5
+roofs_30_01_42 valley NE 6 4
+roofs_30_01_43 valley NE 6 3
+roofs_30_01_44 valley NE 6 2
+roofs_30_01_45 valley NE 6 1
+roofs_30_01_48 valley NW 6 1
+roofs_30_01_49 valley NW 6 2
+roofs_30_01_50 valley NW 6 3
+roofs_30_01_51 valley NW 6 4
+roofs_30_01_52 valley NW 6 5
+roofs_30_01_53 valley NW 6 6
+roofs_30_01_56 valley SW 6 6
+roofs_30_01_57 valley SW 6 5
+roofs_30_01_58 valley SW 6 4
+roofs_30_01_59 valley SW 6 3
+roofs_30_01_60 valley SW 6 2
+roofs_30_01_61 valley SW 6 1
+roofs_30_01_64 hip SE 6 1
+roofs_30_01_65 hip SE 6 2
+roofs_30_01_66 hip SE 6 3
+roofs_30_01_67 hip SE 6 4
+roofs_30_01_68 hip SE 6 5
+roofs_30_01_69 hip SE 6 6
+roofs_30_01_72 hip NE 6 6
+roofs_30_01_73 hip NE 6 5
+roofs_30_01_74 hip NE 6 4
+roofs_30_01_75 hip NE 6 3
+roofs_30_01_76 hip NE 6 2
+roofs_30_01_77 hip NE 6 1
+roofs_30_01_80 hip SW 6 1
+roofs_30_01_81 hip SW 6 2
+roofs_30_01_82 hip SW 6 3
+roofs_30_01_83 hip SW 6 4
+roofs_30_01_84 hip SW 6 5
+roofs_30_01_85 hip SW 6 6
+roofs_30_01_88 hip NW 6 6
+roofs_30_01_89 hip NW 6 5
+roofs_30_01_90 hip NW 6 4
+roofs_30_01_91 hip NW 6 3
+roofs_30_01_92 hip NW 6 2
+roofs_30_01_93 hip NW 6 1
+roofs_30_01_96 hip SN 6 1
+roofs_30_01_97 hip SN 6 2
+roofs_30_01_98 hip SN 6 3
+roofs_30_01_99 hip SN 6 4
+roofs_30_01_100 hip SN 6 5
+roofs_30_01_101 hip SN 6 6
+roofs_30_01_104 hip EW 6 6
+roofs_30_01_105 hip EW 6 5
+roofs_30_01_106 hip EW 6 4
+roofs_30_01_107 hip EW 6 3
+roofs_30_01_108 hip EW 6 2
+roofs_30_01_109 hip EW 6 1
+roofs_30_01_112 peak 6 1
+roofs_30_01_113 peak 6 2
+roofs_30_01_114 peak 6 3
+roofs_30_01_115 peak 6 4
+roofs_30_01_116 peak 6 5
+roofs_30_01_117 peak 6 6
+roofs_30_02_0 slope S 6 1
+roofs_30_02_1 slope S 6 2
+roofs_30_02_2 slope S 6 3
+roofs_30_02_3 slope S 6 4
+roofs_30_02_4 slope S 6 5
+roofs_30_02_5 slope S 6 6
+roofs_30_02_8 slope E 6 6
+roofs_30_02_9 slope E 6 5
+roofs_30_02_10 slope E 6 4
+roofs_30_02_11 slope E 6 3
+roofs_30_02_12 slope E 6 2
+roofs_30_02_13 slope E 6 1
+roofs_30_02_16 slope W 6 1
+roofs_30_02_17 slope W 6 2
+roofs_30_02_18 slope W 6 3
+roofs_30_02_19 slope W 6 4
+roofs_30_02_20 slope W 6 5
+roofs_30_02_21 slope W 6 6
+roofs_30_02_24 slope N 6 6
+roofs_30_02_25 slope N 6 5
+roofs_30_02_26 slope N 6 4
+roofs_30_02_27 slope N 6 3
+roofs_30_02_28 slope N 6 2
+roofs_30_02_29 slope N 6 1
+roofs_30_02_32 valley SE 6 1
+roofs_30_02_33 valley SE 6 2
+roofs_30_02_34 valley SE 6 3
+roofs_30_02_35 valley SE 6 4
+roofs_30_02_36 valley SE 6 5
+roofs_30_02_37 valley SE 6 6
+roofs_30_02_40 valley NE 6 6
+roofs_30_02_41 valley NE 6 5
+roofs_30_02_42 valley NE 6 4
+roofs_30_02_43 valley NE 6 3
+roofs_30_02_44 valley NE 6 2
+roofs_30_02_45 valley NE 6 1
+roofs_30_02_48 valley NW 6 1
+roofs_30_02_49 valley NW 6 2
+roofs_30_02_50 valley NW 6 3
+roofs_30_02_51 valley NW 6 4
+roofs_30_02_52 valley NW 6 5
+roofs_30_02_53 valley NW 6 6
+roofs_30_02_56 valley SW 6 6
+roofs_30_02_57 valley SW 6 5
+roofs_30_02_58 valley SW 6 4
+roofs_30_02_59 valley SW 6 3
+roofs_30_02_60 valley SW 6 2
+roofs_30_02_61 valley SW 6 1
+roofs_30_02_64 hip SE 6 1
+roofs_30_02_65 hip SE 6 2
+roofs_30_02_66 hip SE 6 3
+roofs_30_02_67 hip SE 6 4
+roofs_30_02_68 hip SE 6 5
+roofs_30_02_69 hip SE 6 6
+roofs_30_02_72 hip NE 6 6
+roofs_30_02_73 hip NE 6 5
+roofs_30_02_74 hip NE 6 4
+roofs_30_02_75 hip NE 6 3
+roofs_30_02_76 hip NE 6 2
+roofs_30_02_77 hip NE 6 1
+roofs_30_02_80 hip SW 6 1
+roofs_30_02_81 hip SW 6 2
+roofs_30_02_82 hip SW 6 3
+roofs_30_02_83 hip SW 6 4
+roofs_30_02_84 hip SW 6 5
+roofs_30_02_85 hip SW 6 6
+roofs_30_02_88 hip NW 6 6
+roofs_30_02_89 hip NW 6 5
+roofs_30_02_90 hip NW 6 4
+roofs_30_02_91 hip NW 6 3
+roofs_30_02_92 hip NW 6 2
+roofs_30_02_93 hip NW 6 1
+roofs_30_02_96 hip SN 6 1
+roofs_30_02_97 hip SN 6 2
+roofs_30_02_98 hip SN 6 3
+roofs_30_02_99 hip SN 6 4
+roofs_30_02_100 hip SN 6 5
+roofs_30_02_101 hip SN 6 6
+roofs_30_02_104 hip EW 6 6
+roofs_30_02_105 hip EW 6 5
+roofs_30_02_106 hip EW 6 4
+roofs_30_02_107 hip EW 6 3
+roofs_30_02_108 hip EW 6 2
+roofs_30_02_109 hip EW 6 1
+roofs_30_02_112 peak 6 1
+roofs_30_02_113 peak 6 2
+roofs_30_02_114 peak 6 3
+roofs_30_02_115 peak 6 4
+roofs_30_02_116 peak 6 5
+roofs_30_02_117 peak 6 6
+roofs_30_03_0 slope S 6 1
+roofs_30_03_1 slope S 6 2
+roofs_30_03_2 slope S 6 3
+roofs_30_03_3 slope S 6 4
+roofs_30_03_4 slope S 6 5
+roofs_30_03_5 slope S 6 6
+roofs_30_03_8 slope E 6 6
+roofs_30_03_9 slope E 6 5
+roofs_30_03_10 slope E 6 4
+roofs_30_03_11 slope E 6 3
+roofs_30_03_12 slope E 6 2
+roofs_30_03_13 slope E 6 1
+roofs_30_03_16 slope W 6 1
+roofs_30_03_17 slope W 6 2
+roofs_30_03_18 slope W 6 3
+roofs_30_03_19 slope W 6 4
+roofs_30_03_20 slope W 6 5
+roofs_30_03_21 slope W 6 6
+roofs_30_03_24 slope N 6 6
+roofs_30_03_25 slope N 6 5
+roofs_30_03_26 slope N 6 4
+roofs_30_03_27 slope N 6 3
+roofs_30_03_28 slope N 6 2
+roofs_30_03_29 slope N 6 1
+roofs_30_03_32 valley SE 6 1
+roofs_30_03_33 valley SE 6 2
+roofs_30_03_34 valley SE 6 3
+roofs_30_03_35 valley SE 6 4
+roofs_30_03_36 valley SE 6 5
+roofs_30_03_37 valley SE 6 6
+roofs_30_03_40 valley NE 6 6
+roofs_30_03_41 valley NE 6 5
+roofs_30_03_42 valley NE 6 4
+roofs_30_03_43 valley NE 6 3
+roofs_30_03_44 valley NE 6 2
+roofs_30_03_45 valley NE 6 1
+roofs_30_03_48 valley NW 6 1
+roofs_30_03_49 valley NW 6 2
+roofs_30_03_50 valley NW 6 3
+roofs_30_03_51 valley NW 6 4
+roofs_30_03_52 valley NW 6 5
+roofs_30_03_53 valley NW 6 6
+roofs_30_03_56 valley SW 6 6
+roofs_30_03_57 valley SW 6 5
+roofs_30_03_58 valley SW 6 4
+roofs_30_03_59 valley SW 6 3
+roofs_30_03_60 valley SW 6 2
+roofs_30_03_61 valley SW 6 1
+roofs_30_03_64 hip SE 6 1
+roofs_30_03_65 hip SE 6 2
+roofs_30_03_66 hip SE 6 3
+roofs_30_03_67 hip SE 6 4
+roofs_30_03_68 hip SE 6 5
+roofs_30_03_69 hip SE 6 6
+roofs_30_03_72 hip NE 6 6
+roofs_30_03_73 hip NE 6 5
+roofs_30_03_74 hip NE 6 4
+roofs_30_03_75 hip NE 6 3
+roofs_30_03_76 hip NE 6 2
+roofs_30_03_77 hip NE 6 1
+roofs_30_03_80 hip SW 6 1
+roofs_30_03_81 hip SW 6 2
+roofs_30_03_82 hip SW 6 3
+roofs_30_03_83 hip SW 6 4
+roofs_30_03_84 hip SW 6 5
+roofs_30_03_85 hip SW 6 6
+roofs_30_03_88 hip NW 6 6
+roofs_30_03_89 hip NW 6 5
+roofs_30_03_90 hip NW 6 4
+roofs_30_03_91 hip NW 6 3
+roofs_30_03_92 hip NW 6 2
+roofs_30_03_93 hip NW 6 1
+roofs_30_03_96 hip SN 6 1
+roofs_30_03_97 hip SN 6 2
+roofs_30_03_98 hip SN 6 3
+roofs_30_03_99 hip SN 6 4
+roofs_30_03_100 hip SN 6 5
+roofs_30_03_101 hip SN 6 6
+roofs_30_03_104 hip EW 6 6
+roofs_30_03_105 hip EW 6 5
+roofs_30_03_106 hip EW 6 4
+roofs_30_03_107 hip EW 6 3
+roofs_30_03_108 hip EW 6 2
+roofs_30_03_109 hip EW 6 1
+roofs_30_03_112 peak 6 1
+roofs_30_03_113 peak 6 2
+roofs_30_03_114 peak 6 3
+roofs_30_03_115 peak 6 4
+roofs_30_03_116 peak 6 5
+roofs_30_03_117 peak 6 6
+roofs_30_04_0 slope S 6 1
+roofs_30_04_1 slope S 6 2
+roofs_30_04_2 slope S 6 3
+roofs_30_04_3 slope S 6 4
+roofs_30_04_4 slope S 6 5
+roofs_30_04_5 slope S 6 6
+roofs_30_04_8 slope E 6 6
+roofs_30_04_9 slope E 6 5
+roofs_30_04_10 slope E 6 4
+roofs_30_04_11 slope E 6 3
+roofs_30_04_12 slope E 6 2
+roofs_30_04_13 slope E 6 1
+roofs_30_04_16 slope W 6 1
+roofs_30_04_17 slope W 6 2
+roofs_30_04_18 slope W 6 3
+roofs_30_04_19 slope W 6 4
+roofs_30_04_20 slope W 6 5
+roofs_30_04_21 slope W 6 6
+roofs_30_04_24 slope N 6 6
+roofs_30_04_25 slope N 6 5
+roofs_30_04_26 slope N 6 4
+roofs_30_04_27 slope N 6 3
+roofs_30_04_28 slope N 6 2
+roofs_30_04_29 slope N 6 1
+roofs_30_04_32 valley SE 6 1
+roofs_30_04_33 valley SE 6 2
+roofs_30_04_34 valley SE 6 3
+roofs_30_04_35 valley SE 6 4
+roofs_30_04_36 valley SE 6 5
+roofs_30_04_37 valley SE 6 6
+roofs_30_04_40 valley NE 6 6
+roofs_30_04_41 valley NE 6 5
+roofs_30_04_42 valley NE 6 4
+roofs_30_04_43 valley NE 6 3
+roofs_30_04_44 valley NE 6 2
+roofs_30_04_45 valley NE 6 1
+roofs_30_04_48 valley NW 6 1
+roofs_30_04_49 valley NW 6 2
+roofs_30_04_50 valley NW 6 3
+roofs_30_04_51 valley NW 6 4
+roofs_30_04_52 valley NW 6 5
+roofs_30_04_53 valley NW 6 6
+roofs_30_04_56 valley SW 6 6
+roofs_30_04_57 valley SW 6 5
+roofs_30_04_58 valley SW 6 4
+roofs_30_04_59 valley SW 6 3
+roofs_30_04_60 valley SW 6 2
+roofs_30_04_61 valley SW 6 1
+roofs_30_04_64 hip SE 6 1
+roofs_30_04_65 hip SE 6 2
+roofs_30_04_66 hip SE 6 3
+roofs_30_04_67 hip SE 6 4
+roofs_30_04_68 hip SE 6 5
+roofs_30_04_69 hip SE 6 6
+roofs_30_04_72 hip NE 6 6
+roofs_30_04_73 hip NE 6 5
+roofs_30_04_74 hip NE 6 4
+roofs_30_04_75 hip NE 6 3
+roofs_30_04_76 hip NE 6 2
+roofs_30_04_77 hip NE 6 1
+roofs_30_04_80 hip SW 6 1
+roofs_30_04_81 hip SW 6 2
+roofs_30_04_82 hip SW 6 3
+roofs_30_04_83 hip SW 6 4
+roofs_30_04_84 hip SW 6 5
+roofs_30_04_85 hip SW 6 6
+roofs_30_04_88 hip NW 6 6
+roofs_30_04_89 hip NW 6 5
+roofs_30_04_90 hip NW 6 4
+roofs_30_04_91 hip NW 6 3
+roofs_30_04_92 hip NW 6 2
+roofs_30_04_93 hip NW 6 1
+roofs_30_04_96 hip SN 6 1
+roofs_30_04_97 hip SN 6 2
+roofs_30_04_98 hip SN 6 3
+roofs_30_04_99 hip SN 6 4
+roofs_30_04_100 hip SN 6 5
+roofs_30_04_101 hip SN 6 6
+roofs_30_04_104 hip EW 6 6
+roofs_30_04_105 hip EW 6 5
+roofs_30_04_106 hip EW 6 4
+roofs_30_04_107 hip EW 6 3
+roofs_30_04_108 hip EW 6 2
+roofs_30_04_109 hip EW 6 1
+roofs_30_04_112 peak 6 1
+roofs_30_04_113 peak 6 2
+roofs_30_04_114 peak 6 3
+roofs_30_04_115 peak 6 4
+roofs_30_04_116 peak 6 5
+roofs_30_04_117 peak 6 6
+roofs_30_05_0 slope S 6 1
+roofs_30_05_1 slope S 6 2
+roofs_30_05_2 slope S 6 3
+roofs_30_05_3 slope S 6 4
+roofs_30_05_4 slope S 6 5
+roofs_30_05_5 slope S 6 6
+roofs_30_05_8 slope E 6 6
+roofs_30_05_9 slope E 6 5
+roofs_30_05_10 slope E 6 4
+roofs_30_05_11 slope E 6 3
+roofs_30_05_12 slope E 6 2
+roofs_30_05_13 slope E 6 1
+roofs_30_05_16 slope W 6 1
+roofs_30_05_17 slope W 6 2
+roofs_30_05_18 slope W 6 3
+roofs_30_05_19 slope W 6 4
+roofs_30_05_20 slope W 6 5
+roofs_30_05_21 slope W 6 6
+roofs_30_05_24 slope N 6 6
+roofs_30_05_25 slope N 6 5
+roofs_30_05_26 slope N 6 4
+roofs_30_05_27 slope N 6 3
+roofs_30_05_28 slope N 6 2
+roofs_30_05_29 slope N 6 1
+roofs_30_05_32 valley SE 6 1
+roofs_30_05_33 valley SE 6 2
+roofs_30_05_34 valley SE 6 3
+roofs_30_05_35 valley SE 6 4
+roofs_30_05_36 valley SE 6 5
+roofs_30_05_37 valley SE 6 6
+roofs_30_05_40 valley NE 6 6
+roofs_30_05_41 valley NE 6 5
+roofs_30_05_42 valley NE 6 4
+roofs_30_05_43 valley NE 6 3
+roofs_30_05_44 valley NE 6 2
+roofs_30_05_45 valley NE 6 1
+roofs_30_05_48 valley NW 6 1
+roofs_30_05_49 valley NW 6 2
+roofs_30_05_50 valley NW 6 3
+roofs_30_05_51 valley NW 6 4
+roofs_30_05_52 valley NW 6 5
+roofs_30_05_53 valley NW 6 6
+roofs_30_05_56 valley SW 6 6
+roofs_30_05_57 valley SW 6 5
+roofs_30_05_58 valley SW 6 4
+roofs_30_05_59 valley SW 6 3
+roofs_30_05_60 valley SW 6 2
+roofs_30_05_61 valley SW 6 1
+roofs_30_05_64 hip SE 6 1
+roofs_30_05_65 hip SE 6 2
+roofs_30_05_66 hip SE 6 3
+roofs_30_05_67 hip SE 6 4
+roofs_30_05_68 hip SE 6 5
+roofs_30_05_69 hip SE 6 6
+roofs_30_05_72 hip NE 6 6
+roofs_30_05_73 hip NE 6 5
+roofs_30_05_74 hip NE 6 4
+roofs_30_05_75 hip NE 6 3
+roofs_30_05_76 hip NE 6 2
+roofs_30_05_77 hip NE 6 1
+roofs_30_05_80 hip SW 6 1
+roofs_30_05_81 hip SW 6 2
+roofs_30_05_82 hip SW 6 3
+roofs_30_05_83 hip SW 6 4
+roofs_30_05_84 hip SW 6 5
+roofs_30_05_85 hip SW 6 6
+roofs_30_05_88 hip NW 6 6
+roofs_30_05_89 hip NW 6 5
+roofs_30_05_90 hip NW 6 4
+roofs_30_05_91 hip NW 6 3
+roofs_30_05_92 hip NW 6 2
+roofs_30_05_93 hip NW 6 1
+roofs_30_05_96 hip SN 6 1
+roofs_30_05_97 hip SN 6 2
+roofs_30_05_98 hip SN 6 3
+roofs_30_05_99 hip SN 6 4
+roofs_30_05_100 hip SN 6 5
+roofs_30_05_101 hip SN 6 6
+roofs_30_05_104 hip EW 6 6
+roofs_30_05_105 hip EW 6 5
+roofs_30_05_106 hip EW 6 4
+roofs_30_05_107 hip EW 6 3
+roofs_30_05_108 hip EW 6 2
+roofs_30_05_109 hip EW 6 1
+roofs_30_05_112 peak 6 1
+roofs_30_05_113 peak 6 2
+roofs_30_05_114 peak 6 3
+roofs_30_05_115 peak 6 4
+roofs_30_05_116 peak 6 5
+roofs_30_05_117 peak 6 6
+roofs_30_06_0 slope S 6 1
+roofs_30_06_1 slope S 6 2
+roofs_30_06_2 slope S 6 3
+roofs_30_06_3 slope S 6 4
+roofs_30_06_4 slope S 6 5
+roofs_30_06_5 slope S 6 6
+roofs_30_06_8 slope E 6 6
+roofs_30_06_9 slope E 6 5
+roofs_30_06_10 slope E 6 4
+roofs_30_06_11 slope E 6 3
+roofs_30_06_12 slope E 6 2
+roofs_30_06_13 slope E 6 1
+roofs_30_06_16 slope W 6 1
+roofs_30_06_17 slope W 6 2
+roofs_30_06_18 slope W 6 3
+roofs_30_06_19 slope W 6 4
+roofs_30_06_20 slope W 6 5
+roofs_30_06_21 slope W 6 6
+roofs_30_06_24 slope N 6 6
+roofs_30_06_25 slope N 6 5
+roofs_30_06_26 slope N 6 4
+roofs_30_06_27 slope N 6 3
+roofs_30_06_28 slope N 6 2
+roofs_30_06_29 slope N 6 1
+roofs_30_06_32 valley SE 6 1
+roofs_30_06_33 valley SE 6 2
+roofs_30_06_34 valley SE 6 3
+roofs_30_06_35 valley SE 6 4
+roofs_30_06_36 valley SE 6 5
+roofs_30_06_37 valley SE 6 6
+roofs_30_06_40 valley NE 6 6
+roofs_30_06_41 valley NE 6 5
+roofs_30_06_42 valley NE 6 4
+roofs_30_06_43 valley NE 6 3
+roofs_30_06_44 valley NE 6 2
+roofs_30_06_45 valley NE 6 1
+roofs_30_06_48 valley NW 6 1
+roofs_30_06_49 valley NW 6 2
+roofs_30_06_50 valley NW 6 3
+roofs_30_06_51 valley NW 6 4
+roofs_30_06_52 valley NW 6 5
+roofs_30_06_53 valley NW 6 6
+roofs_30_06_56 valley SW 6 6
+roofs_30_06_57 valley SW 6 5
+roofs_30_06_58 valley SW 6 4
+roofs_30_06_59 valley SW 6 3
+roofs_30_06_60 valley SW 6 2
+roofs_30_06_61 valley SW 6 1
+roofs_30_06_64 hip SE 6 1
+roofs_30_06_65 hip SE 6 2
+roofs_30_06_66 hip SE 6 3
+roofs_30_06_67 hip SE 6 4
+roofs_30_06_68 hip SE 6 5
+roofs_30_06_69 hip SE 6 6
+roofs_30_06_72 hip NE 6 6
+roofs_30_06_73 hip NE 6 5
+roofs_30_06_74 hip NE 6 4
+roofs_30_06_75 hip NE 6 3
+roofs_30_06_76 hip NE 6 2
+roofs_30_06_77 hip NE 6 1
+roofs_30_06_80 hip SW 6 1
+roofs_30_06_81 hip SW 6 2
+roofs_30_06_82 hip SW 6 3
+roofs_30_06_83 hip SW 6 4
+roofs_30_06_84 hip SW 6 5
+roofs_30_06_85 hip SW 6 6
+roofs_30_06_88 hip NW 6 6
+roofs_30_06_89 hip NW 6 5
+roofs_30_06_90 hip NW 6 4
+roofs_30_06_91 hip NW 6 3
+roofs_30_06_92 hip NW 6 2
+roofs_30_06_93 hip NW 6 1
+roofs_30_06_96 hip SN 6 1
+roofs_30_06_97 hip SN 6 2
+roofs_30_06_98 hip SN 6 3
+roofs_30_06_99 hip SN 6 4
+roofs_30_06_100 hip SN 6 5
+roofs_30_06_101 hip SN 6 6
+roofs_30_06_104 hip EW 6 6
+roofs_30_06_105 hip EW 6 5
+roofs_30_06_106 hip EW 6 4
+roofs_30_06_107 hip EW 6 3
+roofs_30_06_108 hip EW 6 2
+roofs_30_06_109 hip EW 6 1
+roofs_30_06_112 peak 6 1
+roofs_30_06_113 peak 6 2
+roofs_30_06_114 peak 6 3
+roofs_30_06_115 peak 6 4
+roofs_30_06_116 peak 6 5
+roofs_30_06_117 peak 6 6
+roofs_30_07_0 slope S 6 1
+roofs_30_07_1 slope S 6 2
+roofs_30_07_2 slope S 6 3
+roofs_30_07_3 slope S 6 4
+roofs_30_07_4 slope S 6 5
+roofs_30_07_5 slope S 6 6
+roofs_30_07_8 slope E 6 6
+roofs_30_07_9 slope E 6 5
+roofs_30_07_10 slope E 6 4
+roofs_30_07_11 slope E 6 3
+roofs_30_07_12 slope E 6 2
+roofs_30_07_13 slope E 6 1
+roofs_30_07_16 slope W 6 1
+roofs_30_07_17 slope W 6 2
+roofs_30_07_18 slope W 6 3
+roofs_30_07_19 slope W 6 4
+roofs_30_07_20 slope W 6 5
+roofs_30_07_21 slope W 6 6
+roofs_30_07_24 slope N 6 6
+roofs_30_07_25 slope N 6 5
+roofs_30_07_26 slope N 6 4
+roofs_30_07_27 slope N 6 3
+roofs_30_07_28 slope N 6 2
+roofs_30_07_29 slope N 6 1
+roofs_30_07_32 valley SE 6 1
+roofs_30_07_33 valley SE 6 2
+roofs_30_07_34 valley SE 6 3
+roofs_30_07_35 valley SE 6 4
+roofs_30_07_36 valley SE 6 5
+roofs_30_07_37 valley SE 6 6
+roofs_30_07_40 valley NE 6 6
+roofs_30_07_41 valley NE 6 5
+roofs_30_07_42 valley NE 6 4
+roofs_30_07_43 valley NE 6 3
+roofs_30_07_44 valley NE 6 2
+roofs_30_07_45 valley NE 6 1
+roofs_30_07_48 valley NW 6 1
+roofs_30_07_49 valley NW 6 2
+roofs_30_07_50 valley NW 6 3
+roofs_30_07_51 valley NW 6 4
+roofs_30_07_52 valley NW 6 5
+roofs_30_07_53 valley NW 6 6
+roofs_30_07_56 valley SW 6 6
+roofs_30_07_57 valley SW 6 5
+roofs_30_07_58 valley SW 6 4
+roofs_30_07_59 valley SW 6 3
+roofs_30_07_60 valley SW 6 2
+roofs_30_07_61 valley SW 6 1
+roofs_30_07_64 hip SE 6 1
+roofs_30_07_65 hip SE 6 2
+roofs_30_07_66 hip SE 6 3
+roofs_30_07_67 hip SE 6 4
+roofs_30_07_68 hip SE 6 5
+roofs_30_07_69 hip SE 6 6
+roofs_30_07_72 hip NE 6 6
+roofs_30_07_73 hip NE 6 5
+roofs_30_07_74 hip NE 6 4
+roofs_30_07_75 hip NE 6 3
+roofs_30_07_76 hip NE 6 2
+roofs_30_07_77 hip NE 6 1
+roofs_30_07_80 hip SW 6 1
+roofs_30_07_81 hip SW 6 2
+roofs_30_07_82 hip SW 6 3
+roofs_30_07_83 hip SW 6 4
+roofs_30_07_84 hip SW 6 5
+roofs_30_07_85 hip SW 6 6
+roofs_30_07_88 hip NW 6 6
+roofs_30_07_89 hip NW 6 5
+roofs_30_07_90 hip NW 6 4
+roofs_30_07_91 hip NW 6 3
+roofs_30_07_92 hip NW 6 2
+roofs_30_07_93 hip NW 6 1
+roofs_30_07_96 hip SN 6 1
+roofs_30_07_97 hip SN 6 2
+roofs_30_07_98 hip SN 6 3
+roofs_30_07_99 hip SN 6 4
+roofs_30_07_100 hip SN 6 5
+roofs_30_07_101 hip SN 6 6
+roofs_30_07_104 hip EW 6 6
+roofs_30_07_105 hip EW 6 5
+roofs_30_07_106 hip EW 6 4
+roofs_30_07_107 hip EW 6 3
+roofs_30_07_108 hip EW 6 2
+roofs_30_07_109 hip EW 6 1
+roofs_30_07_112 peak 6 1
+roofs_30_07_113 peak 6 2
+roofs_30_07_114 peak 6 3
+roofs_30_07_115 peak 6 4
+roofs_30_07_116 peak 6 5
+roofs_30_07_117 peak 6 6
+roofs_30_08_0 slope S 6 1
+roofs_30_08_1 slope S 6 2
+roofs_30_08_2 slope S 6 3
+roofs_30_08_3 slope S 6 4
+roofs_30_08_4 slope S 6 5
+roofs_30_08_5 slope S 6 6
+roofs_30_08_8 slope E 6 6
+roofs_30_08_9 slope E 6 5
+roofs_30_08_10 slope E 6 4
+roofs_30_08_11 slope E 6 3
+roofs_30_08_12 slope E 6 2
+roofs_30_08_13 slope E 6 1
+roofs_30_08_16 slope W 6 1
+roofs_30_08_17 slope W 6 2
+roofs_30_08_18 slope W 6 3
+roofs_30_08_19 slope W 6 4
+roofs_30_08_20 slope W 6 5
+roofs_30_08_21 slope W 6 6
+roofs_30_08_24 slope N 6 6
+roofs_30_08_25 slope N 6 5
+roofs_30_08_26 slope N 6 4
+roofs_30_08_27 slope N 6 3
+roofs_30_08_28 slope N 6 2
+roofs_30_08_29 slope N 6 1
+roofs_30_08_32 valley SE 6 1
+roofs_30_08_33 valley SE 6 2
+roofs_30_08_34 valley SE 6 3
+roofs_30_08_35 valley SE 6 4
+roofs_30_08_36 valley SE 6 5
+roofs_30_08_37 valley SE 6 6
+roofs_30_08_40 valley NE 6 6
+roofs_30_08_41 valley NE 6 5
+roofs_30_08_42 valley NE 6 4
+roofs_30_08_43 valley NE 6 3
+roofs_30_08_44 valley NE 6 2
+roofs_30_08_45 valley NE 6 1
+roofs_30_08_48 valley NW 6 1
+roofs_30_08_49 valley NW 6 2
+roofs_30_08_50 valley NW 6 3
+roofs_30_08_51 valley NW 6 4
+roofs_30_08_52 valley NW 6 5
+roofs_30_08_53 valley NW 6 6
+roofs_30_08_56 valley SW 6 6
+roofs_30_08_57 valley SW 6 5
+roofs_30_08_58 valley SW 6 4
+roofs_30_08_59 valley SW 6 3
+roofs_30_08_60 valley SW 6 2
+roofs_30_08_61 valley SW 6 1
+roofs_30_08_64 hip SE 6 1
+roofs_30_08_65 hip SE 6 2
+roofs_30_08_66 hip SE 6 3
+roofs_30_08_67 hip SE 6 4
+roofs_30_08_68 hip SE 6 5
+roofs_30_08_69 hip SE 6 6
+roofs_30_08_72 hip NE 6 6
+roofs_30_08_73 hip NE 6 5
+roofs_30_08_74 hip NE 6 4
+roofs_30_08_75 hip NE 6 3
+roofs_30_08_76 hip NE 6 2
+roofs_30_08_77 hip NE 6 1
+roofs_30_08_80 hip SW 6 1
+roofs_30_08_81 hip SW 6 2
+roofs_30_08_82 hip SW 6 3
+roofs_30_08_83 hip SW 6 4
+roofs_30_08_84 hip SW 6 5
+roofs_30_08_85 hip SW 6 6
+roofs_30_08_88 hip NW 6 6
+roofs_30_08_89 hip NW 6 5
+roofs_30_08_90 hip NW 6 4
+roofs_30_08_91 hip NW 6 3
+roofs_30_08_92 hip NW 6 2
+roofs_30_08_93 hip NW 6 1
+roofs_30_08_96 hip SN 6 1
+roofs_30_08_97 hip SN 6 2
+roofs_30_08_98 hip SN 6 3
+roofs_30_08_99 hip SN 6 4
+roofs_30_08_100 hip SN 6 5
+roofs_30_08_101 hip SN 6 6
+roofs_30_08_104 hip EW 6 6
+roofs_30_08_105 hip EW 6 5
+roofs_30_08_106 hip EW 6 4
+roofs_30_08_107 hip EW 6 3
+roofs_30_08_108 hip EW 6 2
+roofs_30_08_109 hip EW 6 1
+roofs_30_08_112 peak 6 1
+roofs_30_08_113 peak 6 2
+roofs_30_08_114 peak 6 3
+roofs_30_08_115 peak 6 4
+roofs_30_08_116 peak 6 5
+roofs_30_08_117 peak 6 6
+roofs_30_09_0 slope S 6 1
+roofs_30_09_1 slope S 6 2
+roofs_30_09_2 slope S 6 3
+roofs_30_09_3 slope S 6 4
+roofs_30_09_4 slope S 6 5
+roofs_30_09_5 slope S 6 6
+roofs_30_09_8 slope E 6 6
+roofs_30_09_9 slope E 6 5
+roofs_30_09_10 slope E 6 4
+roofs_30_09_11 slope E 6 3
+roofs_30_09_12 slope E 6 2
+roofs_30_09_13 slope E 6 1
+roofs_30_09_16 slope W 6 1
+roofs_30_09_17 slope W 6 2
+roofs_30_09_18 slope W 6 3
+roofs_30_09_19 slope W 6 4
+roofs_30_09_20 slope W 6 5
+roofs_30_09_21 slope W 6 6
+roofs_30_09_24 slope N 6 6
+roofs_30_09_25 slope N 6 5
+roofs_30_09_26 slope N 6 4
+roofs_30_09_27 slope N 6 3
+roofs_30_09_28 slope N 6 2
+roofs_30_09_29 slope N 6 1
+roofs_30_09_32 valley SE 6 1
+roofs_30_09_33 valley SE 6 2
+roofs_30_09_34 valley SE 6 3
+roofs_30_09_35 valley SE 6 4
+roofs_30_09_36 valley SE 6 5
+roofs_30_09_37 valley SE 6 6
+roofs_30_09_40 valley NE 6 6
+roofs_30_09_41 valley NE 6 5
+roofs_30_09_42 valley NE 6 4
+roofs_30_09_43 valley NE 6 3
+roofs_30_09_44 valley NE 6 2
+roofs_30_09_45 valley NE 6 1
+roofs_30_09_48 valley NW 6 1
+roofs_30_09_49 valley NW 6 2
+roofs_30_09_50 valley NW 6 3
+roofs_30_09_51 valley NW 6 4
+roofs_30_09_52 valley NW 6 5
+roofs_30_09_53 valley NW 6 6
+roofs_30_09_56 valley SW 6 6
+roofs_30_09_57 valley SW 6 5
+roofs_30_09_58 valley SW 6 4
+roofs_30_09_59 valley SW 6 3
+roofs_30_09_60 valley SW 6 2
+roofs_30_09_61 valley SW 6 1
+roofs_30_09_64 hip SE 6 1
+roofs_30_09_65 hip SE 6 2
+roofs_30_09_66 hip SE 6 3
+roofs_30_09_67 hip SE 6 4
+roofs_30_09_68 hip SE 6 5
+roofs_30_09_69 hip SE 6 6
+roofs_30_09_72 hip NE 6 6
+roofs_30_09_73 hip NE 6 5
+roofs_30_09_74 hip NE 6 4
+roofs_30_09_75 hip NE 6 3
+roofs_30_09_76 hip NE 6 2
+roofs_30_09_77 hip NE 6 1
+roofs_30_09_80 hip SW 6 1
+roofs_30_09_81 hip SW 6 2
+roofs_30_09_82 hip SW 6 3
+roofs_30_09_83 hip SW 6 4
+roofs_30_09_84 hip SW 6 5
+roofs_30_09_85 hip SW 6 6
+roofs_30_09_88 hip NW 6 6
+roofs_30_09_89 hip NW 6 5
+roofs_30_09_90 hip NW 6 4
+roofs_30_09_91 hip NW 6 3
+roofs_30_09_92 hip NW 6 2
+roofs_30_09_93 hip NW 6 1
+roofs_30_09_96 hip SN 6 1
+roofs_30_09_97 hip SN 6 2
+roofs_30_09_98 hip SN 6 3
+roofs_30_09_99 hip SN 6 4
+roofs_30_09_100 hip SN 6 5
+roofs_30_09_101 hip SN 6 6
+roofs_30_09_104 hip EW 6 6
+roofs_30_09_105 hip EW 6 5
+roofs_30_09_106 hip EW 6 4
+roofs_30_09_107 hip EW 6 3
+roofs_30_09_108 hip EW 6 2
+roofs_30_09_109 hip EW 6 1
+roofs_30_09_112 peak 6 1
+roofs_30_09_113 peak 6 2
+roofs_30_09_114 peak 6 3
+roofs_30_09_115 peak 6 4
+roofs_30_09_116 peak 6 5
+roofs_30_09_117 peak 6 6
+roofs_30_10_0 slope S 6 1
+roofs_30_10_1 slope S 6 2
+roofs_30_10_2 slope S 6 3
+roofs_30_10_3 slope S 6 4
+roofs_30_10_4 slope S 6 5
+roofs_30_10_5 slope S 6 6
+roofs_30_10_8 slope E 6 6
+roofs_30_10_9 slope E 6 5
+roofs_30_10_10 slope E 6 4
+roofs_30_10_11 slope E 6 3
+roofs_30_10_12 slope E 6 2
+roofs_30_10_13 slope E 6 1
+roofs_30_10_16 slope W 6 1
+roofs_30_10_17 slope W 6 2
+roofs_30_10_18 slope W 6 3
+roofs_30_10_19 slope W 6 4
+roofs_30_10_20 slope W 6 5
+roofs_30_10_21 slope W 6 6
+roofs_30_10_24 slope N 6 6
+roofs_30_10_25 slope N 6 5
+roofs_30_10_26 slope N 6 4
+roofs_30_10_27 slope N 6 3
+roofs_30_10_28 slope N 6 2
+roofs_30_10_29 slope N 6 1
+roofs_30_10_32 valley SE 6 1
+roofs_30_10_33 valley SE 6 2
+roofs_30_10_34 valley SE 6 3
+roofs_30_10_35 valley SE 6 4
+roofs_30_10_36 valley SE 6 5
+roofs_30_10_37 valley SE 6 6
+roofs_30_10_40 valley NE 6 6
+roofs_30_10_41 valley NE 6 5
+roofs_30_10_42 valley NE 6 4
+roofs_30_10_43 valley NE 6 3
+roofs_30_10_44 valley NE 6 2
+roofs_30_10_45 valley NE 6 1
+roofs_30_10_48 valley NW 6 1
+roofs_30_10_49 valley NW 6 2
+roofs_30_10_50 valley NW 6 3
+roofs_30_10_51 valley NW 6 4
+roofs_30_10_52 valley NW 6 5
+roofs_30_10_53 valley NW 6 6
+roofs_30_10_56 valley SW 6 6
+roofs_30_10_57 valley SW 6 5
+roofs_30_10_58 valley SW 6 4
+roofs_30_10_59 valley SW 6 3
+roofs_30_10_60 valley SW 6 2
+roofs_30_10_61 valley SW 6 1
+roofs_30_10_64 hip SE 6 1
+roofs_30_10_65 hip SE 6 2
+roofs_30_10_66 hip SE 6 3
+roofs_30_10_67 hip SE 6 4
+roofs_30_10_68 hip SE 6 5
+roofs_30_10_69 hip SE 6 6
+roofs_30_10_72 hip NE 6 6
+roofs_30_10_73 hip NE 6 5
+roofs_30_10_74 hip NE 6 4
+roofs_30_10_75 hip NE 6 3
+roofs_30_10_76 hip NE 6 2
+roofs_30_10_77 hip NE 6 1
+roofs_30_10_80 hip SW 6 1
+roofs_30_10_81 hip SW 6 2
+roofs_30_10_82 hip SW 6 3
+roofs_30_10_83 hip SW 6 4
+roofs_30_10_84 hip SW 6 5
+roofs_30_10_85 hip SW 6 6
+roofs_30_10_88 hip NW 6 6
+roofs_30_10_89 hip NW 6 5
+roofs_30_10_90 hip NW 6 4
+roofs_30_10_91 hip NW 6 3
+roofs_30_10_92 hip NW 6 2
+roofs_30_10_93 hip NW 6 1
+roofs_30_10_96 hip SN 6 1
+roofs_30_10_97 hip SN 6 2
+roofs_30_10_98 hip SN 6 3
+roofs_30_10_99 hip SN 6 4
+roofs_30_10_100 hip SN 6 5
+roofs_30_10_101 hip SN 6 6
+roofs_30_10_104 hip EW 6 6
+roofs_30_10_105 hip EW 6 5
+roofs_30_10_106 hip EW 6 4
+roofs_30_10_107 hip EW 6 3
+roofs_30_10_108 hip EW 6 2
+roofs_30_10_109 hip EW 6 1
+roofs_30_10_112 peak 6 1
+roofs_30_10_113 peak 6 2
+roofs_30_10_114 peak 6 3
+roofs_30_10_115 peak 6 4
+roofs_30_10_116 peak 6 5
+roofs_30_10_117 peak 6 6
+roofs_burnt_01_0 slope S 3 1
+roofs_burnt_01_1 slope S 3 2
+roofs_burnt_01_2 slope S 3 3
+roofs_burnt_01_3 slope E 3 3
+roofs_burnt_01_4 slope E 3 2
+roofs_burnt_01_5 slope E 3 1
+roofs_burnt_01_6 eave
+roofs_burnt_01_7 eave
+roofs_burnt_01_8 hip SE 3 1
+roofs_burnt_01_9 hip SE 3 2
+roofs_burnt_01_10 hip SE 3 3
+roofs_burnt_01_11 valley SE 3 1
+roofs_burnt_01_12 valley SE 3 2
+roofs_burnt_01_13 valley SE 3 3
+roofs_burnt_01_15 hip SN 3 2
+roofs_burnt_01_20 eave
+roofs_burnt_01_21 eave
+roofs_burnt_01_22 flat
+roofs_burnt_01_23 flat
+roofs_burnt_01_24 hip SW 3 1
+roofs_burnt_01_25 hip SW 3 2
+roofs_burnt_01_26 hip SW 3 3
+roofs_burnt_01_27 hip NE 3 3
+roofs_burnt_01_28 hip NE 3 2
+roofs_burnt_01_29 hip NE 3 1
+roofs_burnt_01_30 eave
+roofs_burnt_01_31 eave
+roofs_burnt_01_70 hip EW 3 3
+roofs_burnt_01_71 hip SN 3 3
+roofs_burnt_01_80 slope E 12 3
+roofs_burnt_01_81 slope E 12 4
+roofs_burnt_01_82 slope W 9 3
+roofs_burnt_01_83 slope W 10 2
+roofs_burnt_01_84 slope N 10 2
+roofs_burnt_01_85 slope N 9 3
+roofs_burnt_01_86 slope S 12 4
+roofs_burnt_01_87 slope S 12 3
+roofs_burnt_01_90 flat
+roofs_burnt_01_91 flat
+roofs_burnt_01_92 flat
+roofs_burnt_01_93 flat
+roofs_burnt_01_96 slope E 12 3
+roofs_burnt_01_97 slope E 12 4
+roofs_burnt_01_98 slope W 9 3
+roofs_burnt_01_99 slope E 12 3
+roofs_burnt_01_100 slope S 12 3
+roofs_burnt_01_101 slope N 9 3
+roofs_burnt_01_102 slope S 12 4
+roofs_burnt_01_103 slope S 12 3
+roofs_burnt_01_112 slope S 3 1
+roofs_burnt_01_113 slope S 3 2
+roofs_burnt_01_114 slope S 3 1
+roofs_burnt_01_115 slope S 3 2
+roofs_burnt_01_116 slope E 3 2
+roofs_burnt_01_117 slope E 3 1
+roofs_burnt_01_118 slope E 3 2
+roofs_burnt_01_119 slope E 3 1
+roofs_burnt_01_120 hip NE 9 3
+roofs_burnt_01_122 hip NW 9 3
+roofs_burnt_01_123 hip NW 10 2
+roofs_burnt_01_124 hip SE 12 4
+roofs_burnt_01_125 hip SE 12 3
+roofs_burnt_01_127 hip SW 9 3
+roofs_burnt_01_128 valley SE 8 2
+roofs_burnt_01_129 valley SE 9 3
+roofs_burnt_01_130 valley NW 9 3
+roofs_burnt_01_131 valley NW 10 2
+roofs_burnt_01_132 slope E 12 3
+roofs_burnt_01_133 valley NE 9 3
+roofs_burnt_01_134 valley SW 9 3
+roofs_burnt_01_135 slope S 12 3
+roofs_burnt_30_01_0 slope S 6 1
+roofs_burnt_30_01_1 slope S 6 2
+roofs_burnt_30_01_2 slope S 6 3
+roofs_burnt_30_01_3 slope S 6 4
+roofs_burnt_30_01_4 slope S 6 5
+roofs_burnt_30_01_5 slope S 6 6
+roofs_burnt_30_01_8 slope E 6 6
+roofs_burnt_30_01_9 slope E 6 5
+roofs_burnt_30_01_10 slope E 6 4
+roofs_burnt_30_01_11 slope E 6 3
+roofs_burnt_30_01_12 slope E 6 2
+roofs_burnt_30_01_13 slope E 6 1
+roofs_burnt_30_01_16 slope W 6 1
+roofs_burnt_30_01_17 slope W 6 2
+roofs_burnt_30_01_18 slope W 6 3
+roofs_burnt_30_01_19 slope W 6 4
+roofs_burnt_30_01_20 slope W 6 5
+roofs_burnt_30_01_21 slope W 6 6
+roofs_burnt_30_01_24 slope N 6 6
+roofs_burnt_30_01_25 slope N 6 5
+roofs_burnt_30_01_26 slope N 6 4
+roofs_burnt_30_01_27 slope N 6 3
+roofs_burnt_30_01_28 slope N 6 2
+roofs_burnt_30_01_29 slope N 6 1
+roofs_burnt_30_01_32 valley SE 6 1
+roofs_burnt_30_01_33 valley SE 6 2
+roofs_burnt_30_01_34 valley SE 6 3
+roofs_burnt_30_01_35 valley SE 6 4
+roofs_burnt_30_01_36 valley SE 6 5
+roofs_burnt_30_01_37 valley SE 6 6
+roofs_burnt_30_01_40 valley NE 6 6
+roofs_burnt_30_01_41 valley NE 6 5
+roofs_burnt_30_01_42 valley NE 6 4
+roofs_burnt_30_01_43 valley NE 6 3
+roofs_burnt_30_01_44 valley NE 6 2
+roofs_burnt_30_01_45 valley NE 6 1
+roofs_burnt_30_01_48 valley NW 6 1
+roofs_burnt_30_01_49 valley NW 6 2
+roofs_burnt_30_01_50 valley NW 6 3
+roofs_burnt_30_01_51 valley NW 6 4
+roofs_burnt_30_01_52 valley NW 6 5
+roofs_burnt_30_01_53 valley NW 6 6
+roofs_burnt_30_01_56 valley SW 6 6
+roofs_burnt_30_01_57 valley SW 6 5
+roofs_burnt_30_01_58 valley SW 6 4
+roofs_burnt_30_01_59 valley SW 6 3
+roofs_burnt_30_01_60 valley SW 6 2
+roofs_burnt_30_01_61 valley SW 6 1
+roofs_burnt_30_01_64 hip SE 6 1
+roofs_burnt_30_01_65 hip SE 6 2
+roofs_burnt_30_01_66 hip SE 6 3
+roofs_burnt_30_01_67 hip SE 6 4
+roofs_burnt_30_01_68 hip SE 6 5
+roofs_burnt_30_01_69 hip SE 6 6
+roofs_burnt_30_01_72 hip NE 6 6
+roofs_burnt_30_01_73 hip NE 6 5
+roofs_burnt_30_01_74 hip NE 6 4
+roofs_burnt_30_01_75 hip NE 6 3
+roofs_burnt_30_01_76 hip NE 6 2
+roofs_burnt_30_01_77 hip NE 6 1
+roofs_burnt_30_01_80 hip SW 6 1
+roofs_burnt_30_01_81 hip SW 6 2
+roofs_burnt_30_01_82 hip SW 6 3
+roofs_burnt_30_01_83 hip SW 6 4
+roofs_burnt_30_01_84 hip SW 6 5
+roofs_burnt_30_01_85 hip SW 6 6
+roofs_burnt_30_01_88 hip NW 6 6
+roofs_burnt_30_01_89 hip NW 6 5
+roofs_burnt_30_01_90 hip NW 6 4
+roofs_burnt_30_01_91 hip NW 6 3
+roofs_burnt_30_01_92 hip NW 6 2
+roofs_burnt_30_01_93 hip NW 6 1
+roofs_burnt_30_01_96 hip SN 6 1
+roofs_burnt_30_01_97 hip SN 6 2
+roofs_burnt_30_01_98 hip SN 6 3
+roofs_burnt_30_01_99 hip SN 6 4
+roofs_burnt_30_01_100 hip SN 6 5
+roofs_burnt_30_01_101 hip SN 6 6
+roofs_burnt_30_01_104 hip EW 6 6
+roofs_burnt_30_01_105 hip EW 6 5
+roofs_burnt_30_01_106 hip EW 6 4
+roofs_burnt_30_01_107 hip EW 6 3
+roofs_burnt_30_01_108 hip EW 6 2
+roofs_burnt_30_01_109 hip EW 6 1
+roofs_burnt_30_01_112 peak 6 1
+roofs_burnt_30_01_113 peak 6 2
+roofs_burnt_30_01_114 peak 6 3
+roofs_burnt_30_01_115 peak 6 4
+roofs_burnt_30_01_116 peak 6 5
+roofs_burnt_30_01_117 peak 6 6
+roofs_shallow_01_0 slope E 12 3
+roofs_shallow_01_1 slope E 12 4
+roofs_shallow_01_2 slope W 15 5
+roofs_shallow_01_3 slope W 8 2
+roofs_shallow_01_4 slope N 8 2
+roofs_shallow_01_5 slope N 15 5
+roofs_shallow_01_6 slope S 8 3
+roofs_shallow_01_7 slope S 12 3
+roofs_shallow_01_9 hip NE 12 4
+roofs_shallow_01_10 hip NW 8 3
+roofs_shallow_01_11 hip NW 8 2
+roofs_shallow_01_12 hip SE 12 4
+roofs_shallow_01_13 hip SE 12 3
+roofs_shallow_01_15 hip SW 8 3
+roofs_shallow_01_16 valley SE 12 3
+roofs_shallow_01_17 valley SE 8 3
+roofs_shallow_01_18 valley NW 15 5
+roofs_shallow_01_19 valley NW 9 2
+roofs_shallow_01_20 valley NE 8 2
+roofs_shallow_01_21 valley NE 12 4
+roofs_shallow_01_22 valley SW 8 3
+roofs_shallow_01_23 valley SW 8 2
+roofs_shallow_01_24 slope E 12 3
+roofs_shallow_01_25 slope E 12 4
+roofs_shallow_01_26 slope W 15 5
+roofs_shallow_01_27 slope W 8 2
+roofs_shallow_01_28 slope N 8 2
+roofs_shallow_01_29 slope N 15 5
+roofs_shallow_01_30 slope S 8 3
+roofs_shallow_01_31 slope S 12 3
+roofs_shallow_01_33 hip NE 12 4
+roofs_shallow_01_34 hip NW 8 3
+roofs_shallow_01_35 hip NW 8 2
+roofs_shallow_01_36 hip SE 12 4
+roofs_shallow_01_37 hip SE 12 3
+roofs_shallow_01_39 hip SW 8 3
+roofs_shallow_01_40 valley SE 12 3
+roofs_shallow_01_41 valley SE 8 3
+roofs_shallow_01_42 valley NW 15 5
+roofs_shallow_01_43 valley NW 9 2
+roofs_shallow_01_44 valley NE 8 2
+roofs_shallow_01_45 valley NE 12 4
+roofs_shallow_01_46 valley SW 8 3
+roofs_shallow_01_47 valley SW 8 2
+roofs_shallow_01_48 slope E 12 3
+roofs_shallow_01_49 slope E 12 4
+roofs_shallow_01_50 slope W 15 5
+roofs_shallow_01_51 slope W 8 2
+roofs_shallow_01_52 slope N 8 2
+roofs_shallow_01_53 slope N 15 5
+roofs_shallow_01_54 slope S 8 3
+roofs_shallow_01_55 slope S 12 3
+roofs_shallow_01_57 hip NE 12 4
+roofs_shallow_01_58 hip NW 8 3
+roofs_shallow_01_59 hip NW 8 2
+roofs_shallow_01_60 hip SE 12 4
+roofs_shallow_01_61 hip SE 12 3
+roofs_shallow_01_63 hip SW 8 3
+roofs_shallow_01_64 valley SE 12 3
+roofs_shallow_01_65 valley SE 8 3
+roofs_shallow_01_66 valley NW 15 5
+roofs_shallow_01_67 valley NW 9 2
+roofs_shallow_01_68 valley NE 8 2
+roofs_shallow_01_69 valley NE 12 4
+roofs_shallow_01_70 valley SW 8 3
+roofs_shallow_01_71 valley SW 8 2
+roofs_shallow_01_72 slope E 12 3
+roofs_shallow_01_73 slope E 12 4
+roofs_shallow_01_74 slope W 15 5
+roofs_shallow_01_75 slope W 8 2
+roofs_shallow_01_76 slope N 8 2
+roofs_shallow_01_77 slope N 15 5
+roofs_shallow_01_78 slope S 8 3
+roofs_shallow_01_79 slope S 12 3
+roofs_shallow_01_81 hip NE 12 4
+roofs_shallow_01_82 hip NW 8 3
+roofs_shallow_01_83 hip NW 8 2
+roofs_shallow_01_84 hip SE 12 4
+roofs_shallow_01_85 hip SE 12 3
+roofs_shallow_01_87 hip SW 8 3
+roofs_shallow_01_88 valley SE 12 3
+roofs_shallow_01_89 valley SE 8 3
+roofs_shallow_01_90 valley NW 15 5
+roofs_shallow_01_91 valley NW 9 2
+roofs_shallow_01_92 valley NE 8 2
+roofs_shallow_01_93 valley NE 12 4
+roofs_shallow_01_94 valley SW 8 3
+roofs_shallow_01_95 valley SW 8 2
+roofs_shallow_01_96 slope E 8 2
+roofs_shallow_01_97 slope E 9 3
+roofs_shallow_01_98 slope W 9 3
+roofs_shallow_01_99 slope W 9 2
+roofs_shallow_01_100 slope N 9 2
+roofs_shallow_01_101 slope N 9 3
+roofs_shallow_01_102 slope S 12 4
+roofs_shallow_01_103 slope S 8 2
+roofs_shallow_01_104 hip NE 9 3
+roofs_shallow_01_105 hip NE 9 2
+roofs_shallow_01_106 hip NW 9 3
+roofs_shallow_01_107 hip NW 9 2
+roofs_shallow_01_108 hip SE 12 4
+roofs_shallow_01_109 hip SE 8 2
+roofs_shallow_01_110 hip SW 8 2
+roofs_shallow_01_111 hip SW 9 3
+roofs_shallow_01_112 valley SE 8 2
+roofs_shallow_01_113 valley SE 9 3
+roofs_shallow_01_114 valley NW 9 3
+roofs_shallow_01_115 valley NW 9 2
+roofs_shallow_01_116 valley NE 9 2
+roofs_shallow_01_117 valley NE 9 3
+roofs_shallow_01_118 valley SW 9 3
+roofs_shallow_01_119 valley SW 9 2
+roofs_shallow_01_120 slope E 8 2
+roofs_shallow_01_121 slope E 9 3
+roofs_shallow_01_122 slope W 9 3
+roofs_shallow_01_123 slope W 9 2
+roofs_shallow_01_124 slope N 9 2
+roofs_shallow_01_125 slope N 9 3
+roofs_shallow_01_126 slope S 9 3
+roofs_shallow_01_127 slope S 8 2
+roofs_shallow_01_128 hip NE 9 3
+roofs_shallow_01_129 hip NE 8 2
+roofs_shallow_01_130 hip NW 9 3
+roofs_shallow_01_131 hip NW 9 2
+roofs_shallow_01_132 hip SE 9 3
+roofs_shallow_01_133 hip SE 15 3
+roofs_shallow_01_134 hip SW 8 2
+roofs_shallow_01_135 hip SW 9 3
+roofs_shallow_01_136 valley SE 8 2
+roofs_shallow_01_137 valley SE 9 3
+roofs_shallow_01_138 valley NW 12 4
+roofs_shallow_01_139 valley NW 9 2
+roofs_shallow_01_140 valley NE 9 2
+roofs_shallow_01_141 valley NE 9 3
+roofs_shallow_01_142 valley SW 9 3
+roofs_shallow_01_143 valley SW 9 2
+# A trailer's gable ends (RoofPieces.gableEnd): name end, the edge of its square it stands on
+location_trailer_01_40 end N
+location_trailer_01_41 end N
+location_trailer_01_42 end N
+location_trailer_01_43 end N
+location_trailer_01_48 end W
+location_trailer_01_49 end W
+location_trailer_01_50 end W
+location_trailer_01_51 end W
+location_trailer_02_24 end N
+location_trailer_02_25 end N
+location_trailer_02_26 end N
+location_trailer_02_27 end N
+location_trailer_02_32 end W
+location_trailer_02_33 end W
+location_trailer_02_34 end W
+location_trailer_02_35 end W

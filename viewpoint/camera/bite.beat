@@ -1,0 +1,9 @@
+# Bitten: the camera is pushed in and low, jolted one way and the other, then lets go.
+states hitreaction-bite hitreaction-biteGeneric hitreaction-crawlerBite
+in 0.1
+out 0.5
+# time  distance height shoulder pitch yaw  roll fov
+0.00    0.00     0.00   0.00     0.0   0.0  0.0  0.0
+0.20    -0.50    -0.20  -0.10    3.0   1.5  -4.0 -4.0
+0.80    -0.40    -0.15  -0.10    2.0   -1.0 3.0  -3.0
+1.60    -0.20    -0.10  0.00     1.0   0.0  0.0  -1.0

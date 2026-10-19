@@ -1,0 +1,6 @@
+# The third-person camera's beats (camera.Beats): one file a line, in viewpoint/camera.
+climb.beat
+getup.beat
+knocked.beat
+bite.beat
+death.beat

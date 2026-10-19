@@ -1,0 +1,8 @@
+# Death: a slow crane up and back, looking down at the body, held.
+states death
+in 0.5
+out 0.5
+hold
+# time  distance height shoulder pitch yaw roll fov
+0.00    0.00     0.00   0.00     0.0   0.0 0.0  0.0
+4.00    1.50     2.00   -0.20    -25.0 0.0 0.0  0.0
